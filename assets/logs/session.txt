@@ -1,0 +1,2 @@
+2021-03-08 02:51:07	admin	http://localhost:8888/vfcm/admin/login/	Successful login for 'admin'
+2021-03-08 03:56:29	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)

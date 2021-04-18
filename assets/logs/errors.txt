@@ -1,0 +1,1 @@
+2021-03-08 03:50:02	admin	http://localhost:8888/vfcm/bible/	Parse Error: 	syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file (line 38 of /Applications/MAMP/htdocs/vfcm/site/templates/bible.php)
